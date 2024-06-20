@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Resume.Html</title>
+ <body>
+      <h2 style="color:rgb(46, 46, 145);text-align:center;"> RESUME</h2></div>
+      <img src="DocScanner 22 Jun 2023.jpg" style="width:80px;height:80px;" >
+      <h5>NAME: B.GOVARDHINI <br>
+      DEPT: B.E-CSE<br>
+      Mail Id: gokulvardhini@gmail.com<br>
+      Mob: 7339684466</h5>
+      <h3 style="color:rgb(7, 145, 7)"><b>CARRIER OBJECTIVE:</b></h3>
+      <p><ul>To shine as challenging and responsible position in an organization where in
+     I contribute to the successful growth of an organization using my abilities and knowledge.
+</ul></p>
+<h3 style="color:rgb(7, 145, 7)"><b>WORK EXPERIENCE:</b></h3>
+<ul><li>2014 -2015 worked AS a planning and documentation at TEXTILE organization in TIRPUR</li><br>
+    <li> 2015-2017 worked AS a Technical Support AND Associate at CREATIVE SOFTWARE in Erode</li><br>
+    <li> 2018-2019 worked AS a HR & Documentation at MIOT INTERNATIONAL- SODEXO in Chennai</li><br>
+    <li> 2019-2020 worked As a SODEXO (HR&HSE) at NOKIA SOLUTIONS &NETWORK in Chennai</li><br>
+    <li> 2022-2023 worked As a Industrial Engineer at FLEXTRONICS in Chennai</li></ul>
+   <h3 style="color:rgb(7, 145, 7)"><b>PROFESSIONAL EXPERIENCE:</b></h3>
+   <ul><li> Designation Technical Support Executive, VB.net programmer</li><br>
+   <li>Handling software entry type, Conversion in Billing Tally</li><br> 
+<li>Performing Data check, OS install and server configuring</li><br>
+<li>Updating on all Bills and file types needed for managing software’s</li><br>
+<li>Expecting main counter estimation of invoice bills and orders followed</li><br>
+<li>Designing in Logo for bills and Coding in Visual Basic</li><br>
+<li>Calculation in GST and implementing in Bills</li><br>
+<li>Enhance in Both Technical support and VB.programming</li></ul>
+<h3 style="color:rgb(7, 145, 7)"><b>ROLES AND RESPONSIBILITIES:</b></h3>
+<ul><li>Responsible in planning parameters</li><br>
+<li>Organize meeting and conduct performance details overall Team</li><br>
+<li>Managing production output</li><br>
+<li>Awarded As Performer in involving Work Activity</li><br>
+<li>Intend in quality for client requirements</li><br>
+<li>Briefing and instructions to All members</li><br></ul>
+<h3 style="color:rgb(7, 145, 7)"><b>AREA OF EXPOSURE:</b></h3>
+<ul><li>HR Requirement And Policy Execution</li><br>
+<li>Payroll Management And General Administration</li><br>
+<li>Performance And Team Management</li><br>
+<li>Training And Development</li><br>
+<li>Overall QHSE Safety and Maintenance ,prevention, other control Measures</li><br>
+<li>Production Reports handling & Layout planning</li><br></ul>
+<h3 style="color:rgb(7, 145, 7)"><b>TECHNICAL SKILLS:</b></h3>
+<ul><li>Languages:	C, C++, HTML</li><br>
+<li>Platforms:	Windows XP, Windows 10</li><br>
+<li>Software's:	Microsoft Office, MY-SQL, Microsoft Access</li><br/></ul>
+<h3 style="color:rgb(7, 145, 7)"><b>EDUCATIONAL QUALIFICATION:</b></h3>
+<ul><li>B.E (CSE)	– [77%] - Shree Venkateshwara Hi-Tech Engineering College-2014</li><br>
+<li>HSC-[58%] - Govt. Girls Higher Secondary School-2010</li><br>
+<li>SSLC	– [82%] - Govt. Girls Higher Secondary School	2008</li><br></ul>
+<h3 style="color:rgb(7, 145, 7)"><b>PROJECTS:</b></h3>
+<ul><li>PREVENTING IDS DATA PROCESSING USING NDD IN CLOUD NETWORK ENVIRONMENT</li><br>
+<li>Domain	Secure Computing</li><br>
+<li>Language	C#.Net</li><br></ul>
+<h3 style="color:rgb(7, 145, 7)"><b>EXTRA CURRICULAR ACTIVITIES:</b></h3>
+<ul><li>Involving in thinking about innovating ideas and problem solving skills</li><br>
+<li>Helped for children Trust and combined in social activities</li><br>
+<li>Eager to Learn And Know About New configuration And Specs In Technology</li><br></ul>
+<h3 style="color:rgb(7, 145, 7)"><b>PERSONAL DETAILS:</b></h3>
+<ul><div><text-align:left>  FATHER’S NAME</text><text-align:right>:  K.BALAMURUGAN</text-align:right></div><br>
+<div><text-align:left> GENDER</text><text-align:right>:FEMALE</text-align:right></div><br>
+<div><text-align:left> NATIONALITY</text><text-align:right>:INDIAN</text-align:right></div><br>
+<div><text-align:left> MARITAL STATUS</text><text-align:right>:SINGLE</text-align:right></div><br>
+<div><text-align:left> LANGUAGES KNOWN</text><text-align:right>:ENGLISH, TAMIL AND TELUGU</text-align:right></div><br>
+</ul>
+<h3 style="color:rgb(7, 145, 7)"><b>DECLERATION:</b></h3>
+<ul><li>I do here by declare that all statements started above are correct to the best of my knowledge and belief.</li><br></ul>
+<h4>Place:</h4>
+<h4>Date:</h4><br>
+</body>
+  </head>
+</html>
